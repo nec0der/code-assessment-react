@@ -1,1 +1,2 @@
-# code-assessment-react
+# Code assesment - Exercise 1 - No Framework
+I didn't have time to finish the task using React, I spent a lot of time on the [SASS](https://github.com/nec0der/code-assessment-sass) version. But I would love to share my thoughts on how I would approach further development of this project. 
